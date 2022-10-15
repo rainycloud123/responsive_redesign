@@ -1,0 +1,65 @@
+
+body{
+    background-color: #e2c4ee; /*can click to change!*/
+
+}
+
+h4 {
+    padding-top: 2rem;
+}
+
+
+#lofi{
+    padding-top: 3rem;
+    padding-left: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#hifi{
+    padding-top: 3rem;
+    padding-left: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#visual{
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+
+#usability{
+    padding-left: 2rem;
+}
+
+#website{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
+}
+
+#overview{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#accessibility{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.btn{
+    background-color: rgb(6, 156, 156);
+    color:rgb(39, 39, 39); /* text color */
+    border:none;
+    border-radius:10px; /* rounds out button */
+    min-height:35px; 
+    min-width: 130px; /*size of button*/
+}
+
+
+
+
+
